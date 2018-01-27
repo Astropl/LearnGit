@@ -8,5 +8,6 @@ public class Main {
         System.out.println ("Trzeci text");
         System.out.println ("Czwarta zmiana");
         System.out.println ("Piata zmiania");
+        System.out.println ("Z branchem");
     }
 }
